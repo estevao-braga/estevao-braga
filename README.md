@@ -12,8 +12,6 @@
 - I'm interested in 📚:
   - Computer systems
   - Cryptography, Blockchain
-  - 
-
 - I'm a big fan of Conan and LOTR ⚔️🧙‍♂️
 
 - Reading now: Dune
