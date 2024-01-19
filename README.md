@@ -10,10 +10,11 @@
 - Computer Science student at [UFG](https://inf.ufg.br/p/ciencia-computacao)
 
 - I'm interested in 📚:
-  - Computer systems
-  - Cryptography, Blockchain
+  - Algorithms
+  - Computing theory
+  - Cryptography
+  - Blockchain
 - I'm a big fan of Conan and LOTR ⚔️🧙‍♂️
-
 - Reading now: Dune
 
 <div  align="center"> 
