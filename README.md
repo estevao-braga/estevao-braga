@@ -16,12 +16,4 @@
 - I'm a big fan of Conan and LOTR ⚔️🧙‍♂️
 - Reading now: Dune
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <h1 align="center">Technologies I use</h1>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" width="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="60"/>
-    <br>
-</div>
+
